@@ -1,0 +1,108 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Find the missing number:<br> 147 + 350 = 350 + __ .",
+      "options": ["350", "147", "203", "500"],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Find the missing number:<br> (6450+980)+50=6450+(980+_)",
+      "options": ["50", "980", "6450", "1120"],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q3",
+      "question": "If 456+0=456, which property is used?",
+      "options": ["Commutative Property", "Identity Property", "Associative Property", "Distributive Property"],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q4",
+      "question": "Find the missing number:<br> (600+300)+200=600+(300+_)",
+      "options": ["600", "300", "200", "900"],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q5",
+      "question": "Write the correct sign in the circle.<br><img width='70%' src='./images/1.png'>",
+      "options": ["<", ">", "=", "NONE OF THESE"],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q6",
+      "question": "A shopkeeper adds 236 and 489 by breaking them into parts. What is the correct way to solve it?",
+      "options": [
+        "(236 + 400) + 89",
+        "(200 + 300) + (36 + 89)",
+        "(200 + 400) + (30 + 80) + (6 + 9)",
+        "(200 + 300) + (30 + 80) + (6 + 89)"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q7",
+      "question": "Emma breaks 293 into parts as 200 + 90 + 3. If she adds it to 456, what should be the next step?",
+      "options": [
+        "Add 200 + 300, then add 90 + 50, then add 3 + 6",
+        "Add 200 + 90 + 3 first, then add 456",
+        "Add 200 + 400, then add 90 + 50, then add 3 + 6",
+        "Add 293 + 456 directly without breaking into parts"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q8",
+      "question": "Identify the missing number: 700+500=500+___.",
+      "options": ["700", "500", "1,200", "1,000"],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q9",
+      "question": "Which of the following correctly represents the Commutative Property?",
+      "options": [
+        "(25+10)+5=25+(10+5)",
+        "400+0=400",
+        "321+789=789+321",
+        "500+(30+200)=(500+30)+200"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q10",
+      "question": "Find the missing number: 987+?=987",
+      "options": ["0", "1", "10", "987"],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q11",
+      "question": "Liam had 235 red marbles. He found 48 blue marbles under his bed. Then, his sister gave him 73 more red marbles. Later, he found 32 more blue marbles in his old toy box. How many red marbles does Liam have now?",
+      "options": ["368", "380", "388", "308"],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q12",
+      "question": "Emma has 12 dolls in her room. She received 18 dolls as a gift. Later, her cousin gifted her 18 dolls, and she bought 17 more dolls at a sale. How many dolls does Emma receive as a gift?",
+      "options": ["36", "89", "78", "61"],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q13",
+      "question": "At a school concert, the organizers sold 2000 tickets to students and 500 tickets to teachers. In addition, 30 complimentary tickets were given to guest speakers (these were not sold). How many tickets were sold?",
+      "options": ["2800", "2500", "3000", "2300"],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q14",
+      "question": "In a classroom, there are 280 students. Later, 10 more students arrived. On the same day, 5 substitute teachers arrived and 7 extra desks were added for an upcoming exam. How many students are in the classroom?",
+      "options": ["330", "280", "290", "400"],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q15",
+      "question": "Mark ordered pizzas for a party. He ordered 123 pepperoni pizzas, 157 cheese pizzas, and 218 veggie pizzas. First, he added the pepperoni and cheese pizzas and then added the veggie pizzas. Later, he grouped the cheese and veggie pizzas first and then added the pepperoni pizzas. Which addition property shows that both grouping methods yield the same total, and what is the total number of pizzas?",
+      "options": ["Commutative Property; 498", "Associative Property; 498", "Identity Property; 498", "Distributive Property; 498"],
+      "correct": 1
+    }
+  ]
+  
